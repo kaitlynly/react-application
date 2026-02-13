@@ -12,8 +12,8 @@ src/
   - Header.js
   - Content.js
   - Footer.js
-- App.jsx
-- main.jsx
+- App.js
+- main.js
 
 ## How to Run
 
